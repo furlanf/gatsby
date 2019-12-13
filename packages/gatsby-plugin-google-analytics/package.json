@@ -12,7 +12,7 @@
   "devDependencies": {
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/react": "^9.4.0",
     "babel-preset-gatsby-package": "^0.2.14",
     "cross-env": "^5.2.1"
   },
